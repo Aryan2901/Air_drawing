@@ -15,7 +15,7 @@ You can draw by using your  1st finger , and if you want not to draww the move h
 
 ### Requirements
 
-Make sure you have following libraries in your environment before running, If not run below command in command window to install all the reuired python libraries.
+Make sure you have following libraries in your environment before running, If not run below command in command window to install all the required python libraries.
 
 ```bash
   pip install -r requirements.txt
